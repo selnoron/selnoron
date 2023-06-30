@@ -1,4 +1,4 @@
 <div align="center">
-<img src="hello-world.gif" align="center" height="325" />
+<img src="ICU.gif" align="center" height="325" />
 </div>  
   
